@@ -33,21 +33,12 @@ slug: /
   </p>
 </p>
 
-[Twitter of InstaPy](https://twitter.com/InstaPy) | [Twitter of Tim](https://twitter.com/timigrossmann) | [Discord Channel](https://discord.gg/FDETsht) | [How it works (FreeCodingCamp)](https://www.freecodecamp.org/news/my-open-source-instagram-bot-got-me-2-500-real-followers-for-5-in-server-costs-e40491358340/) |   
+[Twitter of InstaPy](https://twitter.com/InstaPy) | [Discord Channel](https://discord.gg/FDETsht) | [How it works (FreeCodingCamp)](https://www.freecodecamp.org/news/my-open-source-instagram-bot-got-me-2-500-real-followers-for-5-in-server-costs-e40491358340/) |   
 [Talk about automating your Instagram](https://youtu.be/4TmKFZy-ioQ) | [Talk about doing Open-Source work](https://www.youtube.com/watch?v=A_UtST302Og&t=0s&list=PLa4P1NPX9hthXV-wko0xyxFpbhYZFkW7o) | [Listen to the "Talk Python to me"-Episode](https://talkpython.fm/episodes/show/142/automating-the-web-with-selenium-and-instapy)
 
 
 **Newsletter: [Sign Up for the Newsletter here!](http://eepurl.com/cZbV_v)**   
-**Official Video Guide: [Get it here!](https://www.udemy.com/instapy-guide/?couponCode=INSTAPY_OFFICIAL)**   
-**Guide to Bot Creation: [Learn to Build your own Bots with the Creators of InstaPy](https://www.udemy.com/course/the-complete-guide-to-bot-creation/?referralCode=7418EBB47E11E34D86C9)**     
-**Our Data Visualization Hands-On Workshop: [Learn to create insightful Visualizations from Scratch!](https://amzn.to/3gwWDNM)**   
-
-<br />
-
-**Learn Automation from Scratch: [The School of Automation](https://www.school-of-automation.com)**   
-**Learn the Skills to build your own InstaPy: [Automating Social Media Interactions](https://www.school-of-automation.com/learn/p/automating-social-media-interactions)**.  
-
-<a href="https://www.school-of-automation.com"><img src="https://static1.squarespace.com/static/5f71907917b093635185fc3e/t/5f9d03cec73af0034b6ffa3a/1604126514869/?format=1500w" width="250"/></a>
+**Guide to Bot Creation: [Learn to Build your own Bots](https://www.udemy.com/course/the-complete-guide-to-bot-creation/?referralCode=7418EBB47E11E34D86C9)**     
 
 <br />
 
@@ -99,22 +90,9 @@ Or add the `headless_browser=True` parameter to the `InstaPy(headless_browser=Tr
 pip install instapy -U
 ```
 
-<ins
-  class="adsbygoogle"
-  data-ad-layout="in-article"
-  data-ad-format="fluid"
-  data-ad-client="ca-pub-4875789012193531"
-  data-ad-slot="9530237054"
-></ins>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## Guides
 
 #### Video tutorials:
-**[Official InstaPy Guide on Udemy](https://www.udemy.com/instapy-guide/?couponCode=INSTAPY_OFFICIAL)**
-
 **[Complete Guide to Bot Creation](https://www.udemy.com/course/the-complete-guide-to-bot-creation/?referralCode=7418EBB47E11E34D86C9)**
 
 **[Installation on Windows](https://www.youtube.com/watch?v=9DkEl2MrFQk&list=PLa4P1NPX9hthXV-wko0xyxFpbhYZFkW7o&index=11&t=40s)**
@@ -166,17 +144,6 @@ If you should encounter any issue, please first [search for similar issues](http
 **Help build InstaPy!**      
 Check out this short guide on [how to start contributing!](https://github.com/InstaPy/instapy-docs/blob/master/CONTRIBUTORS.md).
 
-<ins
-  class="adsbygoogle"
-  data-ad-layout="in-article"
-  data-ad-format="fluid"
-  data-ad-client="ca-pub-4875789012193531"
-  data-ad-slot="9530237054"
-></ins>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## Credits
 
 ### Community
@@ -208,14 +175,3 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 ---
 
 > **Disclaimer**<a name="disclaimer" />: Please Note that this is a research project. I am by no means responsible for any usage of this tool. Use on your own behalf. I'm also not responsible if your accounts get banned due to extensive use of this tool.
-
-<ins
-  class="adsbygoogle"
-  data-ad-layout="in-article"
-  data-ad-format="fluid"
-  data-ad-client="ca-pub-4875789012193531"
-  data-ad-slot="9530237054"
-></ins>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
